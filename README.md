@@ -3,7 +3,7 @@ Chat app using NodeJs and Websockets :repeat:
 ____
 Basic chat app that broadcasts messages to connected users.
 
-Instruction:
+Instructions:
 
 - Clone this repo: \
 `git clone https://github.com/stdevelopr/websockets-chat-app.git`
@@ -18,3 +18,5 @@ Instruction:
 `nodemon`
 
 ![screenshot](https://github.com/stdevelopr/websockets-chat-app/blob/master/chatapp.png)
+
+:electric_plug:
