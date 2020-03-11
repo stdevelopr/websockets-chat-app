@@ -16,3 +16,5 @@ Instruction:
 
 - Run nodemon: \
 `nodemon`
+
+![screenshot](https://github.com/stdevelopr/websockets-chat-app/blob/master/chatapp.png)
